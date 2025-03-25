@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 40rem;
+    min-height: 25rem;
+    margin: 1rem auto;
+    border: 1px solid #a19d9d;
+    box-shadow: .5rem .5rem .3rem .01rem #a19d9d;
+}
+.mensagem {
+    background-color: lightgray;
+    color: black;
+    text-align: center;
+    width: 8rem;
+    height: 8rem;
+    border-radius: .5rem;
+    padding: 15px;
+    font-weight: bold;
+    margin: 1rem;
+    box-shadow: .5rem .5rem .3rem .01rem #a19d9d;
+}
